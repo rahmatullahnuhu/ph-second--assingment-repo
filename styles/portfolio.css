@@ -142,6 +142,7 @@ width: 500px;
 margin-top: 30px;
 border-radius: 8px;
 background-color: whitesmoke;
+padding: 15px 20px 15px 20px;
 }
 
 .header-section-2{
@@ -150,6 +151,7 @@ background-color: whitesmoke;
     margin-top: 30px;
     border-radius: 8px;
     background-color: whitesmoke;
+    padding: 15px 20px 15px 20px;
 }
 
 .header-section-3{
@@ -158,6 +160,7 @@ background-color: whitesmoke;
     margin-top: 30px;
     border-radius: 8px;
     background-color: whitesmoke;
+    padding: 15px 20px 15px 20px;
    
 }
 
@@ -284,6 +287,3 @@ height: 200px;
     position: relative;
     bottom: 53px;
 }
-
-
-
