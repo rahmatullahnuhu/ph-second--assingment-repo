@@ -1,0 +1,289 @@
+*{
+    /* margin: 0; */
+    font-family: 'Open Sans', sans-serif;
+}
+.Architects-possition{
+margin-top: 35px;
+}
+
+.list-posstion{
+margin-top: 35px;
+}
+
+.flag-possition{
+    width: 1200px;
+    margin-top: 30px;
+}
+
+.header-desing{
+    background-color: rgb(247, 228, 203);
+    height: 1030px; 
+}
+.button-possition{
+background-color: darkorange;
+color: aliceblue;
+border-radius: 7px;
+border-style: none;
+width: 120px;
+height: 40px;
+}
+
+.header-posstion{
+    position: relative;
+    text-align: center;
+    top: 70px;  
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    top: 100px;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 80px ;
+}
+
+nav ul{
+    display: flex;
+}
+
+#text-id-one{
+    color: rgb(82, 80, 80);
+  
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 40px;
+}
+
+#text-id-two{
+    color: black;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+}
+
+#text-id-three{
+color: orange;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+}
+
+.heading-images-item{
+    display: flex;
+   margin-left: 100px;
+}
+
+.paragraph-item{
+        position: relative;
+        bottom: 450px;
+      margin-left: 830px;
+}
+.heading-text{
+    position: relative;
+top: 130px;
+margin-left: 30px;
+
+}
+
+.image-section{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+
+.button-possiton{
+    position: relative;
+margin-left: 830px;
+bottom: 450px;
+}
+
+#button-styles{
+background-color: darkorange;
+color: aliceblue;
+border-radius: 7px;
+border-style: none;
+width: 120px;
+height: 45px;
+}
+
+.hr-item{
+    position: relative;
+    top: 80px;
+    height: 5px;
+    width: 80px;
+    background-color: darkorange;
+    rotate: 90deg;   
+}
+
+.features-styles{
+position: relative;
+margin-left: 60px;
+font-weight: 700;
+font-size: 40px;
+line-height: 45px;
+}
+
+.paragraph-item-2{
+   position: relative;
+    margin-left: 35px;   
+}
+
+.header-section-1{
+border: 1px solid white;    
+width: 500px;
+margin-top: 30px;
+border-radius: 8px;
+background-color: whitesmoke;
+}
+
+.header-section-2{
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 30px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+}
+
+.header-section-3{
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 30px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+   
+}
+
+.column-section{
+    margin-left: 35px;
+    display: flex;
+}
+
+.architect-images-item{
+    position: relative;
+    margin-left: 120px;
+    bottom: 250px;
+    width: 600px;
+    height: 750px;
+}
+
+.button-possiton-2{
+    position: relative;
+     left: 50px;
+     bottom: 320px;
+}
+.button-styles-2{
+    background-color: darkorange;
+    color: aliceblue;
+    border-radius: 5px;
+    border-style: none;
+    width: 190px;
+    height: 120px;
+}
+
+.some-facts-style{
+    position: relative;
+    bottom: 180px;
+    margin-left: 50px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.paragraph-item-3{
+    position: relative;
+    margin-left: 50px;
+    bottom: 190px;
+}
+
+.icon-item{
+    display: grid;
+}
+
+.images-icon-styles{
+    bottom: 150px;
+    position: relative;
+    margin-left: 240px; 
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap:110px
+}
+
+/* icon bacround styles part */
+.image-one{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(247, 176, 45);
+}
+
+.image-two{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(247, 176, 45);
+}
+
+.image-three{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(247, 176, 45);
+}
+
+.image-four{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(247, 176, 45);
+}
+
+.sponspors-desing{
+    position: relative;
+  text-align: center;
+  bottom: 85px;
+}
+
+.sponspors-title{
+font-weight: 1000;
+font-size: 40px;
+line-height: 50px;
+}
+
+.sponsors-icon-desing{
+display: flex;
+margin-left: 90px;
+gap: 85px;
+margin-top: 70px;
+filter: grayscale(100%);
+}
+
+.footer-position{
+position: relative;
+text-align: center;
+height: 200px;
+}
+
+.footer-styles{
+    background-color: rgb(248, 231, 210);
+    color: black;
+    border-radius: 7px;
+    border-style: none;
+    width: 1185px;
+    height: 50px;  
+    margin-left: 70px;
+}
+
+.footer-styles-2{
+    position: relative;
+    bottom: 53px;
+}
+
+
+
